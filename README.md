@@ -8,5 +8,8 @@ Feel free to edit the embed around to make it look nice, but please leave my Cre
 If you have any issues, feel free to contact me! Discord: Nickzz#8039
 
 Here is an Example on what it can look like!
+
+
+
 ![image](https://user-images.githubusercontent.com/85542797/134796509-1cff570e-158a-4622-a215-14d361d45b7c.png)
 
